@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Montserrat:wght@500&display=swap");
+
+html,
+body {
+  font-family: "Crimson Pro", serif;
+}
+
+.container-home {
+  padding: 4px 9px;
+  border-bottom: 1px solid #af8e13;
+}
+.logo-parent {
+  width: 30%;
+}
+.banner-section {
+  width: 60%;
+}
+.banner-section img {
+  width: 100%;
+  height: 100%;
+}
+.input-parent {
+  width: 40%;
+}
+.input-section {
+  display: flex;
+
+  align-items: center;
+
+  width: 60%;
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+}
+.input-section input {
+  width: 100%;
+  background: none;
+  height: 42px;
+  color: #ffffff;
+
+  border: none;
+  outline: none;
+  font-size: 1.4vw;
+  padding: 0px 19px;
+}
+.input-section input:focus {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.input-child {
+  width: 100%;
+}
+.search-icon {
+  display: flex;
+  font-size: 23px;
+  left: 8px;
+  position: relative;
+}
+
+.icons-group {
+  width: 30%;
+  justify-content: flex-end;
+}
+.active-nav {
+  border-bottom: 1px solid #af8e13;
+  cursor: pointer;
+}
+.icon-section {
+  justify-content: space-evenly;
+  width: 100%;
+}
+.icon-group {
+  cursor: pointer;
+}
+.icon-text {
+  font-size: 1.3vw;
+}
+
+.MuiMenu-paper {
+  top: 4rem !important;
+  /* left: 69rem !important; */
+
+  background: radial-gradient(#302705, #00161e) !important;
+  border: 1px solid #af8e13 !important;
+  border-radius: 9px !important;
+}
+.dropdown-item {
+  color: #c3c5c5;
+  font-size: 16.5px;
+  font-family: "Crimson Pro", serif;
+}
+.view-profile {
+  font-size: 14px;
+  color: #f9c633;
+  font-family: "Crimson Pro", serif;
+}
+.full-name {
+  color: #ffffff;
+  font-size: 17px;
+  font-family: "Crimson Pro", serif;
+}
+.position {
+  color: #c3c5c5;
+  font-size: 10px;
+  font-family: "Crimson Pro", serif;
+}
+.profile-link:hover {
+  text-decoration: none;
+}

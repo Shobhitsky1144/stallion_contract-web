@@ -1,0 +1,29 @@
+.MuiDialog-paper {
+  background: radial-gradient(#302705, #00161e) !important;
+  border: 1px solid #af8e13 !important;
+  border-radius: 9px !important;
+  width: 500px !important;
+}
+.modal-title {
+  font-size: 27px;
+  font-family: "Crimson Pro", serif;
+  border-bottom: 1px solid #af8e13 !important;
+}
+.contact {
+  font-size: 22px;
+  font-family: "Crimson Pro", serif;
+}
+span {
+  font-family: "Crimson Pro", serif;
+
+  font-size: 18px;
+}
+.contact-email {
+  border-top: 1px solid #4b4b4b !important;
+}
+.MuiTypography-h6 {
+  padding: 0px !important;
+}
+.MuiDialogContent-dividers {
+  padding: 0px !important;
+}

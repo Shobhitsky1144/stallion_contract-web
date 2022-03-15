@@ -1,0 +1,58 @@
+.profile-parent {
+  margin: 0px 19px;
+}
+
+.profile-section-header {
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+}
+.upload-icon {
+  background: #c3c5c5;
+  /* padding: 12px 69px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9px;
+  /* margin: 5px 100px; */
+  width: 24%;
+  height: 58px;
+}
+.upload-profile {
+  border-bottom: 1px solid #4b4b4b;
+}
+.contract {
+  border-bottom: 1px solid #4b4b4b;
+  padding: 5px 15px;
+}
+.profile-section-footer {
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+}
+.profile-section-footer div {
+  border-bottom: 1px solid #4b4b4b;
+  padding-left: 14px;
+}
+h5 {
+  font-size: 18px;
+  padding-top: 7px;
+  color: #ffffff;
+}
+
+.upload-text {
+  color: #f9c633;
+  cursor: pointer;
+  font-size: 15.4px;
+}
+.carot-icon {
+  cursor: pointer;
+}
+.contract-menu-hide {
+  display: none;
+}
+
+.contarct-submenu {
+  color: #f9c633;
+}
+.submenu-text {
+  color: #c3c5c5;
+}

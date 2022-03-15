@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Montserrat:wght@500&display=swap");
+
+html,
+body {
+  font-family: "Crimson Pro", serif;
+  /* background: radial-gradient(#302705, #00161e); */
+  background-image: url("../assets//WebIcons//Rectangle363.png");
+  background-size: cover;
+}
+
+.button {
+  background: none;
+  margin: 10px;
+  height: 42px;
+  width: 150px;
+  outline: none;
+  border: 1px solid #af8e13;
+  border-radius: 6px;
+  background: linear-gradient(#a76c39, #ffcc33, #a76c39);
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 21px;
+}
+input:focus {
+  background: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid #af8e13 !important;
+  color: #ffffff !important;
+}
+/* button:focus {
+  border: none !important;
+  outline: none !important;
+} */
+::placeholder {
+  color: #c3c5cf !important;
+}

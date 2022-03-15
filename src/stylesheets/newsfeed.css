@@ -1,0 +1,25 @@
+.post-header {
+  padding: 20px;
+}
+
+.news-feed {
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+}
+
+.vertical-dot {
+  cursor: pointer;
+}
+
+.content {
+  margin-left: 7px;
+}
+.full-name {
+  padding-top: 0px !important;
+}
+.short-info,
+.social-text,
+.sendIcon,
+.starIcon {
+  color: #c3c5c5;
+}

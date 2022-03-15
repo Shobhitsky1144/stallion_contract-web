@@ -1,0 +1,69 @@
+.container-otp form {
+  /* width: 670px; */
+}
+.container-forgot h2 {
+  font-size: 33px;
+  color: #ffffff;
+}
+
+.otp {
+  color: #ffffff;
+  font-size: 33px;
+}
+.otp-text {
+  color: #c3c5cf;
+  font-size: 22px;
+}
+.otp-request {
+  color: #c3c5cf;
+  font-size: 18px;
+}
+.otp-request a {
+  color: #f9c633 !important;
+  cursor: pointer;
+}
+.input-groups {
+  background: none;
+  width: 70%;
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+  margin: auto;
+}
+.input-groups input {
+  margin: 8px 5px;
+  background: none;
+
+  text-align: center;
+
+  font-size: 18px;
+  color: #ffffff;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+  outline: none;
+  width: 8%;
+  box-shadow: none;
+}
+.input-groups input:focus {
+  border: none !important;
+  border-bottom: 1px solid #ffffff !important;
+}
+
+.button-common button {
+  background: none;
+  margin: 10px;
+  height: 42px;
+  width: 200px;
+  outline: none;
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+  background: linear-gradient(#a76c39, #ffcc33, #a76c39);
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 21px;
+}
+a {
+  text-decoration: none;
+  color: #f9c633;
+  font-size: 20px;
+}

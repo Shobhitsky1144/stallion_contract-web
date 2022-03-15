@@ -1,0 +1,28 @@
+.social-parent {
+  border: 1px solid #af8e13;
+  border-radius: 9px;
+}
+
+.social-section {
+  border-top: 1px solid #4b4b4b;
+  padding: 7px 45px;
+}
+
+.social-title {
+  border-bottom: 1px solid #4b4b4b;
+  padding: 8px 19px;
+}
+.social-item {
+  padding: 11px 15px;
+}
+.follow-link {
+  color: #f9c633;
+}
+.social-item-child {
+  border-top: 1px solid #4b4b4b;
+  padding: 7px 15px;
+}
+.see-more {
+  border-top: 1px solid #4b4b4b;
+  cursor: pointer;
+}
